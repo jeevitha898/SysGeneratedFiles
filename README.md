@@ -57,6 +57,6 @@ Ensure you have the following installed:
 
 ## Screenshot
 
-   ![Application Screenshot](screenshot.png)
+   ![Screenshort](application.png)
    
 
