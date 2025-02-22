@@ -12,7 +12,7 @@ Manually creating configuration files is time-consuming, error-prone, and ineffi
 
 SysGeneratedFiles automates the process of generating configuration files, significantly reducing manual effort. By utilizing an Excel sheet containing device details and a predefined template, the tool creates multiple `.conf` files within seconds. This not only saves time but also ensures accuracy and consistency across all generated files.
 
-## How It Helps Engineers
+## How It Helps 
 
 - **Time-Saving**: Automates repetitive tasks, allowing engineers to focus on more critical work.
 - **Standardization**: Ensures all generated files follow the same structure, reducing inconsistencies.
